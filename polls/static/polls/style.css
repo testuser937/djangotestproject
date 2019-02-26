@@ -1,0 +1,21 @@
+#block1 {
+    width: 150px;
+    height: 150px;
+    background-color: red;
+}
+
+body {
+    background: white url("images/img.jpg") no-repeat;
+}
+
+.image1 {
+    width: 700px;
+    height: 400px;
+}
+
+.images {
+
+}
+
+
+
