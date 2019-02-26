@@ -1,3 +1,3 @@
 # Тестовый сайт на Django
 
-![Скриншот](https://ibb.co/dQKzKDF)
+![Скриншот](https://i.imgur.com/xJ47EJU.jpg)
